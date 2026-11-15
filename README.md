@@ -6,6 +6,8 @@ Plataforma que conecta estudantes que precisam de ajuda em uma disciplina com mo
 
 ## Links do projeto
 
+LINK DO PROJETO!!! `https://rafagm2005.github.io/Monitora/app/`
+
 | Item | Link |
 |---|---|
 | 📄 **PRD (Documento de Requisitos do Produto)** | [docs/PRD.md](docs/PRD.md) |
