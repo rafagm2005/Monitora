@@ -4,9 +4,9 @@ Plataforma que conecta estudantes que precisam de ajuda em uma disciplina com mo
 
 > **Status:** etapa de planejamento (PRD e organização do projeto). O sistema ainda não foi implementado.
 
-## Links do projeto
-
 LINK DO PROJETO!!! `https://rafagm2005.github.io/Monitora/app/`
+
+## Links do projeto
 
 | Item | Link |
 |---|---|
